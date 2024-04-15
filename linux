@@ -1,0 +1,7 @@
+touch myfile{1..20}.txt
+mv  myfile1.txt myfile1.yml
+mv  myfile2.txt myfile2.yml
+mv  myfile3.txt myfile3.yml
+mv  myfile4.txt myfile4.yml
+mv  myfile5.txt myfile5.yml
+ls lt | head -n6
