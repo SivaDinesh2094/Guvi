@@ -1,0 +1,11 @@
+renu@ATGIN-LT-DIS:~$ nslookup guvi.in
+Server:         172.29.16.1
+Address:        172.29.16.1#53
+
+Non-authoritative answer:
+Name:   guvi.in
+Address: 104.26.5.88
+Name:   guvi.in
+Address: 104.26.4.88
+Name:   guvi.in
+Address: 172.67.70.207
